@@ -22,7 +22,7 @@ current_waits <- read_delim("http://www.cbsa-asfc.gc.ca/bwt-taf/bwt-eng.csv", de
 # make visual or string for tweeting?
 
 
-
+# This code is garbage! We need new codes for the revolution!
 
 
 ######## Tweet
