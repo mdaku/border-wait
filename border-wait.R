@@ -25,7 +25,6 @@ current_waits <- read_delim("http://www.cbsa-asfc.gc.ca/bwt-taf/bwt-eng.csv", de
 
 
 
-
 ######## Tweet
 
 # fill in info
